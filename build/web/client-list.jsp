@@ -30,6 +30,8 @@
                            class="nav-link">Clients</a></li>
                     <li><a href="/caftan"
                            class="nav-link">Caftans</a></li>
+                           <li><a href="/connexion/Login.jsp"
+                           class="nav-link">Déconnexion</a></li>
                 </ul>
             </nav>
         </header>
